@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset = "utf-8"> 
+     
+      <title> Birthday Wish</title>  
+      
+      <link rel = "icon" href = "love icon.png" type = "image/ x-icon" />
+      <!--add a customized icon to the page-->
+   </head>
+   
+      <body style = "background: url(background2.jpg) fixed; background-size: 100% 100%;">
+	 <bgsound src="lovesong.mp3" loop="infinite">
+	 
+         <p><h1><font color = "	#FF1493"> Birthday Wish to My Baby </font></h1>
+            	<br/>
+		<font color = "	#32CD32"><h2> Baby của anh nè, 
+		<br/>
+		<br/>Hôm nay là ngày 8 tháng 5, sinh nhật lần thứ 19 của baby rồi đó, nhanh thật ha.
+		<br/>Chúc baby tuổi mới có được nhiều niềm vui mới, gặt hái được nhiều thành công hơn, và ngày càng xinh đẹp nha.
+		<br/>Hôm nay cũng là ngày thứ 926 yêu và bên nhau rồi đó. Khoảng thời gian này không dài nhưng cũng không ngắn, và anh muốn bên baby lâu lâu hơn nữa. 
+		<br/>Trong khoảng thời gian hơn 2 năm bên baby, anh lúc nào cũng sát cánh bên baby, dõi theo sự thay đổi và trưởng thành của baby,
+		<br/>cũng như lúc nào cũng cố gắng đem lại thật nhiều niềm vui và hạnh phúc cho baby. 
+		<br/>Thấy baby bây giờ hạnh phúc và trưởng thành hơn hồi đó nhiều, anh cảm thấy vui với hạnh phúc lắm đó. 
+		<br/>Không chỉ có anh bên cạnh baby, mà baby cũng luôn quan tâm chăm sóc anh nữa, và anh cảm thấy thật tự hào khi có người yêu là baby. 
+		<br/>Cảm ơn baby vì trong thời gian qua đã luôn bên anh. Anh hi vọng tình yêu của hai đứa mình sẽ luôn bền chặt và không bao giờ phai.
+		<br/>
+		<br/>Love you as always and Happy Birthday, 
+		<br/>Bảo Phúc</font></h2>
+         </p>
+      </body>      
+</html>
